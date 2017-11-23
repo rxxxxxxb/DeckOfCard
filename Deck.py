@@ -64,7 +64,7 @@ deck.shuffle()
 # deck.drawCard()
 # deck.show()
 
-cartman = Player("Cartman")
+cartman = Player("Cartman") #Create a plaer nammmed cartman 
 
 
 cartman.draw()
